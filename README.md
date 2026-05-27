@@ -30,3 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaydas06&" alt="udaydas06" /></p>
 </div>
 
+npx generate-snake-animation@3 --forgejo_user codeberg.org/JasterV --output snake.svg?palette=codeberg
